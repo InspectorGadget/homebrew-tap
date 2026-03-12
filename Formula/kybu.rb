@@ -22,7 +22,7 @@ class Kybu < Formula
 
   def caveats
     <<~EOS
-      🛰️ Kybu has been installed!
+      Kybu has been installed!
 
       To start generating IAM policies, simply run:
         kybu

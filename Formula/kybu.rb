@@ -10,7 +10,6 @@ class Kybu < Formula
   depends_on "go" => :build
 
   def install
-
     ldflags = [
       "-s -w",
       "-X github.com/InspectorGadget/kybu/variables.Version=v#{version}"

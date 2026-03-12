@@ -2,8 +2,8 @@ class Kybu < Formula
   desc "Zero-Touch AWS IAM Policy Generator"
   homepage "https://github.com/InspectorGadget/kybu"
   # The GitHub Action will automatically update 'url' and 'sha256'
-  url "https://github.com/InspectorGadget/kybu/archive/refs/tags/v0.0.2.tar.gz"
-  sha256 "c9e2cdfc75d8c7c18f5f460375fd29de8785ffb82e798d645a282319d2938e1e"
+  url "https://github.com/InspectorGadget/kybu/archive/refs/tags/v0.0.3.tar.gz"
+  sha256 "b200f00ba472b8e0da9a44ae962ddd4b1e868f10c471fc7e3d887e3b0cac8386"
   license "MIT"
 
   # Ensures Go is installed before building
